@@ -1,2 +1,2 @@
-# Unreal-Game-Projects
-Repository for my game projects in unreal engine.
+# AI=Prompted-Projects
+Repository for my projects developed using AI tools.
